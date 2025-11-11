@@ -1,1 +1,1 @@
-# discord.gg/8XNw3reQba
+# https://discord.gg/8XNw3reQba
