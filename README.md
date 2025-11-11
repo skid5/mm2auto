@@ -1,5 +1,4 @@
 # Fastest MM2 Auto Trader
-contact @sk_id on discord to purchase premium
 
 ```lua
 getgenv().Config = {
